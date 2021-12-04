@@ -1,0 +1,19 @@
+# ninja log v5
+1	154	659983008	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	4774fe1f73b8c2d4
+154	10551	659983018	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	e8b84675af7a13c4
+10551	11670	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	1b31e37b68a248f1
+11670	11713	659983020	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	2e02ba7f97b72c72
+11713	11755	659983020	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	74b45c54e39775e1
+11755	11797	659983020	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	680aec2bfd3ca6f8
+11797	11841	659983020	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	6cd46ea2ff531801
+11842	11883	659983020	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	7583768b39904349
+11883	11944	659983020	CMakeFiles/glfw-populate-complete	9d11fcfa7b487d8d
+11883	11944	659983020	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9d11fcfa7b487d8d
+0	1295	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	1b31e37b68a248f1
+1295	1336	659984042	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	2e02ba7f97b72c72
+1336	1376	659984042	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	74b45c54e39775e1
+1376	1418	659984042	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	680aec2bfd3ca6f8
+1418	1459	659984042	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	6cd46ea2ff531801
+1459	1500	659984042	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	7583768b39904349
+1500	1558	659984042	CMakeFiles/glfw-populate-complete	9d11fcfa7b487d8d
+1500	1558	659984042	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	9d11fcfa7b487d8d

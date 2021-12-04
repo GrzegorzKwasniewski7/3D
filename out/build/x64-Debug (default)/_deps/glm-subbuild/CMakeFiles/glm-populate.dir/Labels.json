@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/CMakeFiles/glm-populate"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/CMakeFiles/glm-populate.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/CMakeFiles/glm-populate-complete.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build.rule"
+		},
+		{
+			"file" : "E:/Edu/UJ/Programowanie_3d/3d-main/out/build/x64-Debug (default)/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glm-populate"
+		],
+		"name" : "glm-populate"
+	}
+}
